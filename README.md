@@ -1,6 +1,6 @@
 # survMOD
 
-This repository contains the `survMOD` R package for modified survival tests.
+This repository contains the `survMOD` R package for modified survival tests. Before usage, ensure `dplyr` and `MASS` packages are installed and loaded.
 
 ## Installation
 
